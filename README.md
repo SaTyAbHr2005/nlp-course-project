@@ -1,4 +1,6 @@
-# Smart Reading Assistant
+# Reading Difficulty Predictor with Adaptive Simplification
+
+NLP course project (Sem VII, 2026-27), Department of Computer Engineering, Vidyavardhini's College of Engineering & Technology.
 
 Classifies English text as **Easy / Medium / Hard** and, if it is not Easy, rewrites it in simpler language.
 
