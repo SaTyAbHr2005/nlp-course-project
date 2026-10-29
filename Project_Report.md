@@ -1,4 +1,4 @@
-# Project Report: AI-Powered Text Difficulty Classification and Simplification System
+# Project Report: Reading Difficulty Predictor with Adaptive Simplification
 
 ## 1. Abstract
 The rapid expansion of digital information has created a significant accessibility gap for readers with varying literacy levels, including children, second-language learners, and individuals with cognitive disabilities. To address this, we propose an end-to-end Natural Language Processing (NLP) pipeline designed to automatically evaluate the reading difficulty of a given text and dynamically simplify it if it exceeds a comprehensible threshold. 

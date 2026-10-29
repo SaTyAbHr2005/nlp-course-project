@@ -163,7 +163,7 @@ def process_text(input_text):
 # 6. GRADIO UI LAYOUT
 # ========================================================
 with gr.Blocks(theme=gr.themes.Soft()) as app:
-    gr.Markdown("# 🧠 Smart Reading Assistant")
+    gr.Markdown("# 🧠 Reading Difficulty Predictor with Adaptive Simplification")
     
     input_box = gr.Textbox(lines=5, label="Enter your text here", placeholder="Paste a paragraph...")
     analyze_btn = gr.Button("Analyze & Simplify", variant="primary")
