@@ -1,0 +1,10 @@
+torch>=2.0
+transformers>=4.40
+gradio>=4.0
+textstat
+numpy
+scikit-learn
+joblib
+pandas
+requests
+beautifulsoup4
